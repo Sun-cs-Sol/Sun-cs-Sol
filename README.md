@@ -17,7 +17,8 @@
    <a href="https://www.linkedin.com/in/ana-sofia-moura-27b003248/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/mouraa_sofia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a> 
-    <a href="  https://replit.com/@AnaSofia8" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
+    <a href="https://replit.com/@AnaSofia8" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
+     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a> 
   
   ![oi](https://i.pinimg.com/originals/52/c6/4a/52c64a6494b77c7810805f626aa73075.gif)
   
