@@ -14,7 +14,7 @@
 <div>
   <a href = "mailto:theanasofiadasilvamoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-sofia-moura-27b003248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/ana-sofia-moura-27b003248/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/mouraa_sofia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a> 
     <a href="https://replit.com/@AnaSofia8" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
