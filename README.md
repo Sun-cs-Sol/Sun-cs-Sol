@@ -20,8 +20,6 @@
     <a href="https://replit.com/@AnaSofia8" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
      <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a> 
   
- ![oi](https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif)
-  
 </div>
 
 
