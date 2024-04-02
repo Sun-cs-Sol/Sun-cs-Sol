@@ -6,10 +6,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-cs-Sol&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Sol-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img img align="center" alt="Sol-Csharp" height="120" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-</div>
 
 <div>
   <a href = "mailto:theanasofiadasilvamoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
