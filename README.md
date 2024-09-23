@@ -1,4 +1,4 @@
-# Oie, meu nome é Sofia <3 ![imagem](https://i.gifer.com/VN5a.gif)
+# Oie, meu nome é Sofia <3 
 
 <div align="center">
   <a href="https://github.com/Sun-cs-Sol">
