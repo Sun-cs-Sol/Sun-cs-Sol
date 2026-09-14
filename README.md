@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/Sun-cs-Sol">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-cs-Sol&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 </div>
 
